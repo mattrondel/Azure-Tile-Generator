@@ -1,4 +1,4 @@
-# AWS files pulled from here:
+# AWS files (AWS-Tile-Generator-main.zip) pulled from here:
 
 https://github.com/WayneStallwood/AWS-Tile-Generator
 
