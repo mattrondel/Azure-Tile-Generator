@@ -2,7 +2,7 @@
 
 https://github.com/WayneStallwood/AWS-Tile-Generator
 
-# Azure files pulled from here:
+# Azure files (Azure_Public_Service_Icons_V11.zip) pulled from here:
 
 https://learn.microsoft.com/en-us/azure/architecture/icons/
 
