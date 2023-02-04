@@ -9,3 +9,6 @@ https://learn.microsoft.com/en-us/azure/architecture/icons/
 # More info on this (page is archived here (AWS 3d tiles.pdf) just in case:
 
 https://nextjeff.medium.com/3d-printable-aws-tile-generator-833a7f925ffa
+
+# More icon resources incase the Microsoft svgs suck
+http://code.benco.io/icon-collection/azure-icons/
